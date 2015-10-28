@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"Hello GitDemo");
     NSLog(@"Change2");
+    NSLog(@"New 分支");
     
 }
 
