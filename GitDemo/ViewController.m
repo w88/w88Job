@@ -20,6 +20,7 @@
     NSLog(@"Hello GitDemo");
     NSLog(@"Change2");
     NSLog(@"New 分支");
+    NSLog(@"Last 分支到这里咯22");
     
 }
 
