@@ -22,6 +22,8 @@
     NSLog(@"New 分支");
     NSLog(@"Last 分支到这里咯22");
     NSLog(@"PUSH W88");
+    NSLog(@"yi-live.com PUSH W88");
+
 
     
 }
